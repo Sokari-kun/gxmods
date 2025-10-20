@@ -17,16 +17,13 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "Ruler Of My Heart _ Alien Stage-yt.savetube.me.mp3"
             ],
             "browser_sounds":
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "water-drip-45622.mp3"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
@@ -89,9 +86,7 @@
                 ],
                 "TYPING_LETTER":
                 [
-                    "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "mouse-click-104737.mp3"
                 ],
                 "TYPING_SPACE":
                 [
@@ -164,8 +159,8 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
-                    "text_color": "#FFFFFF",
+                    "image": "wunWf5b9FXLAay2MCwjPEtbVCZK1Gn7kLFm7Jv2AW9Br2_Ddyz6P9UuDKknqWMYHSc4FG6cqN5QZ-AzzbPXfPA.gif",
+                    "text_color": "#FFEFD5",
                     "text_shadow": "#757575"
                 },
                 "light":
